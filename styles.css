@@ -1,0 +1,11 @@
+#hello-world {
+    color: rgb(32, 114, 100, 1.0)
+}
+
+body {
+    background: './assets/background.jpg'
+}
+
+.letter-row {
+    align-content: space-around
+}
